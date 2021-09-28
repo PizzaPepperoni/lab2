@@ -26,7 +26,6 @@ legend {
 div { 
   width: 50%;
   margin: 0 auto;
-  )
 }
 
 label {
@@ -51,7 +50,6 @@ label {
   
   input{
     width: 30%;
-    float: clear;
     height: 30px;
    
   }
