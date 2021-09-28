@@ -1,0 +1,75 @@
+htlm {
+   line-height: 1.2em;
+   font-family: tahoma;
+}
+
+input {
+    height: 30px;
+    width: 98%;
+}
+
+h2 {
+	display: block;
+	background-color: yellow;
+	font-size: 3em;	
+}
+legend {
+	display: block;
+	text-align: center;
+}
+
+#wrap {
+  margin: 0 auto;
+  width: 95%;
+}
+
+div { 
+  width: 50%;
+  margin: 0 auto;
+  )
+}
+
+label {
+  display: inline;
+  background-color: #66ccff;
+  height: 30px;
+  font-size: 25px;
+}
+
+@media screen and (min-width: 620px) {
+
+ label {
+   display: block;
+   padding: 5px;
+
+  }
+  #inputButton{
+	  display: block;
+	  background: yellow;
+	  text-align: center;  
+  }
+  
+  input{
+    width: 30%;
+    float: clear;
+    height: 30px;
+   
+  }
+  
+div {
+    display: block;
+}
+
+#label{
+	display: inline;
+}
+  
+h2{
+	display: block;
+	background-color: yellow;
+	font-size: 1.5em;
+}
+fieldset{
+	background: #66ccff;
+}
+}
